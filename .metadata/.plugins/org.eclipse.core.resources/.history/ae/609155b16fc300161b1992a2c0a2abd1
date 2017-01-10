@@ -1,0 +1,42 @@
+package tn.iit.dao;
+
+import java.util.List;
+
+import javax.ejb.Singleton;
+import javax.persistence.EntityManager;
+import javax.persistence.PersistenceContext;
+import javax.persistence.Query;
+
+import tn.iit.model.ClientBanque;
+
+@Singleton
+public class ClientBanqueDao {
+	@PersistenceContext
+	private EntityManager em;
+
+	public List<ClientBanque> findAllDao() {
+		Query q = em.createQuery("from ClientBanque n");
+		List<ClientBanque> list = q.getResultList();
+		return list;
+	}
+
+	public void createClientDao(ClientBanque clientBanque) {
+		em.persist(clientBanque);
+	}
+
+	public void deleteClientDao(String cin) {
+		ClientBanque clt = em.find(ClientBanque.class, cin);
+		em.remove(clt);
+	}
+
+	public void updateClientDao(ClientBanque clientBanque) {
+		em.merge(clientBanque);
+	}
+
+	public ClientBanque getByCin(String cin) {
+		ClientBanque clientBanque = em.find(ClientBanque.class, cin);
+		return clientBanque;
+
+	}
+
+}
