@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_0duGsMNvEeaE_aECiLf4hg" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_0duGscNvEeaE_aECiLf4hg" bindingContexts="_0dv8dMNvEeaE_aECiLf4hg">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CompteBancaireDao.java&quot; tooltip=&quot;GestionBancaireEjb/ejbModule/tn/iit/dao/CompteBancaireDao.java&quot;>&#xA;&lt;persistable path=&quot;/GestionBancaireEjb/ejbModule/tn/iit/dao/CompteBancaireDao.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ClientBanqueDao.java&quot; tooltip=&quot;GestionBancaireEjb/ejbModule/tn/iit/dao/ClientBanqueDao.java&quot;>&#xA;&lt;persistable path=&quot;/GestionBancaireEjb/ejbModule/tn/iit/dao/ClientBanqueDao.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.jboss.tools.jst.jsp.jspeditor.JSPTextEditor&quot; name=&quot;deposer.jsp&quot; tooltip=&quot;GestionBancairWeb/WebContent/deposer.jsp&quot;>&#xA;&lt;persistable path=&quot;/GestionBancairWeb/WebContent/deposer.jsp&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.jboss.tools.jst.jsp.jspeditor.JSPTextEditor&quot; name=&quot;compte.jsp&quot; tooltip=&quot;GestionBancairWeb/WebContent/compte.jsp&quot;>&#xA;&lt;persistable path=&quot;/GestionBancairWeb/WebContent/compte.jsp&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CompteBancaireServlet.java&quot; tooltip=&quot;GestionBancairWeb/src/tn/iit/servlet/CompteBancaireServlet.java&quot;>&#xA;&lt;persistable path=&quot;/GestionBancairWeb/src/tn/iit/servlet/CompteBancaireServlet.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.jboss.tools.jst.jsp.jspeditor.JSPTextEditor&quot; name=&quot;client.jsp&quot; tooltip=&quot;GestionBancairWeb/WebContent/client.jsp&quot;>&#xA;&lt;persistable path=&quot;/GestionBancairWeb/WebContent/client.jsp&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ClientBanqueServlet.java&quot; tooltip=&quot;GestionBancairWeb/src/tn/iit/servlet/ClientBanqueServlet.java&quot;>&#xA;&lt;persistable path=&quot;/GestionBancairWeb/src/tn/iit/servlet/ClientBanqueServlet.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CompteBancaireService.java&quot; tooltip=&quot;GestionBancaireEjb/ejbModule/tn/iit/service/CompteBancaireService.java&quot;>&#xA;&lt;persistable path=&quot;/GestionBancaireEjb/ejbModule/tn/iit/service/CompteBancaireService.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ClientBanqueService.java&quot; tooltip=&quot;GestionBancaireEjb/ejbModule/tn/iit/service/ClientBanqueService.java&quot;>&#xA;&lt;persistable path=&quot;/GestionBancaireEjb/ejbModule/tn/iit/service/ClientBanqueService.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CompteBancaire.java&quot; tooltip=&quot;GestionBancaireEjb/ejbModule/tn/iit/model/CompteBancaire.java&quot;>&#xA;&lt;persistable path=&quot;/GestionBancaireEjb/ejbModule/tn/iit/model/CompteBancaire.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ClientBanque.java&quot; tooltip=&quot;GestionBancaireEjb/ejbModule/tn/iit/model/ClientBanque.java&quot;>&#xA;&lt;persistable path=&quot;/GestionBancaireEjb/ejbModule/tn/iit/model/ClientBanque.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ClientBanqueLocal.java&quot; tooltip=&quot;GestionBancaireEjb/ejbModule/tn/iit/serviceInterface/ClientBanqueLocal.java&quot;>&#xA;&lt;persistable path=&quot;/GestionBancaireEjb/ejbModule/tn/iit/serviceInterface/ClientBanqueLocal.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CompteBancaireLocal.java&quot; tooltip=&quot;GestionBancaireEjb/ejbModule/tn/iit/serviceInterface/CompteBancaireLocal.java&quot;>&#xA;&lt;persistable path=&quot;/GestionBancaireEjb/ejbModule/tn/iit/serviceInterface/CompteBancaireLocal.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.jboss.tools.jst.jsp.jspeditor.JSPTextEditor&quot; name=&quot;transfere.jsp&quot; tooltip=&quot;GestionBancairWeb/WebContent/transfere.jsp&quot;>&#xA;&lt;persistable path=&quot;/GestionBancairWeb/WebContent/transfere.jsp&quot;/>&#xA;&lt;/file>&#xA;&lt;/mruList>&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ClientBanqueDao.java&quot; tooltip=&quot;GestionBancaireEjb/ejbModule/tn/iit/dao/ClientBanqueDao.java&quot;>&#xA;&lt;persistable path=&quot;/GestionBancaireEjb/ejbModule/tn/iit/dao/ClientBanqueDao.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CompteBancaireDao.java&quot; tooltip=&quot;GestionBancaireEjb/ejbModule/tn/iit/dao/CompteBancaireDao.java&quot;>&#xA;&lt;persistable path=&quot;/GestionBancaireEjb/ejbModule/tn/iit/dao/CompteBancaireDao.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.jboss.tools.jst.jsp.jspeditor.JSPTextEditor&quot; name=&quot;deposer.jsp&quot; tooltip=&quot;GestionBancairWeb/WebContent/deposer.jsp&quot;>&#xA;&lt;persistable path=&quot;/GestionBancairWeb/WebContent/deposer.jsp&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.jboss.tools.jst.jsp.jspeditor.JSPTextEditor&quot; name=&quot;compte.jsp&quot; tooltip=&quot;GestionBancairWeb/WebContent/compte.jsp&quot;>&#xA;&lt;persistable path=&quot;/GestionBancairWeb/WebContent/compte.jsp&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CompteBancaireServlet.java&quot; tooltip=&quot;GestionBancairWeb/src/tn/iit/servlet/CompteBancaireServlet.java&quot;>&#xA;&lt;persistable path=&quot;/GestionBancairWeb/src/tn/iit/servlet/CompteBancaireServlet.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.jboss.tools.jst.jsp.jspeditor.JSPTextEditor&quot; name=&quot;client.jsp&quot; tooltip=&quot;GestionBancairWeb/WebContent/client.jsp&quot;>&#xA;&lt;persistable path=&quot;/GestionBancairWeb/WebContent/client.jsp&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ClientBanqueServlet.java&quot; tooltip=&quot;GestionBancairWeb/src/tn/iit/servlet/ClientBanqueServlet.java&quot;>&#xA;&lt;persistable path=&quot;/GestionBancairWeb/src/tn/iit/servlet/ClientBanqueServlet.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CompteBancaireService.java&quot; tooltip=&quot;GestionBancaireEjb/ejbModule/tn/iit/service/CompteBancaireService.java&quot;>&#xA;&lt;persistable path=&quot;/GestionBancaireEjb/ejbModule/tn/iit/service/CompteBancaireService.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ClientBanqueService.java&quot; tooltip=&quot;GestionBancaireEjb/ejbModule/tn/iit/service/ClientBanqueService.java&quot;>&#xA;&lt;persistable path=&quot;/GestionBancaireEjb/ejbModule/tn/iit/service/ClientBanqueService.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CompteBancaire.java&quot; tooltip=&quot;GestionBancaireEjb/ejbModule/tn/iit/model/CompteBancaire.java&quot;>&#xA;&lt;persistable path=&quot;/GestionBancaireEjb/ejbModule/tn/iit/model/CompteBancaire.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ClientBanque.java&quot; tooltip=&quot;GestionBancaireEjb/ejbModule/tn/iit/model/ClientBanque.java&quot;>&#xA;&lt;persistable path=&quot;/GestionBancaireEjb/ejbModule/tn/iit/model/ClientBanque.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ClientBanqueLocal.java&quot; tooltip=&quot;GestionBancaireEjb/ejbModule/tn/iit/serviceInterface/ClientBanqueLocal.java&quot;>&#xA;&lt;persistable path=&quot;/GestionBancaireEjb/ejbModule/tn/iit/serviceInterface/ClientBanqueLocal.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CompteBancaireLocal.java&quot; tooltip=&quot;GestionBancaireEjb/ejbModule/tn/iit/serviceInterface/CompteBancaireLocal.java&quot;>&#xA;&lt;persistable path=&quot;/GestionBancaireEjb/ejbModule/tn/iit/serviceInterface/CompteBancaireLocal.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.jboss.tools.jst.jsp.jspeditor.JSPTextEditor&quot; name=&quot;transfere.jsp&quot; tooltip=&quot;GestionBancairWeb/WebContent/transfere.jsp&quot;>&#xA;&lt;persistable path=&quot;/GestionBancairWeb/WebContent/transfere.jsp&quot;/>&#xA;&lt;/file>&#xA;&lt;/mruList>&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
   <children xsi:type="basic:TrimmedWindow" xmi:id="_0duGscNvEeaE_aECiLf4hg" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_0duGssNvEeaE_aECiLf4hg" label="%trimmedwindow.label.eclipseSDK" x="21" y="23" width="1280" height="712">
@@ -79,9 +79,9 @@
           <tags>persp.newWizSC:org.jboss.tools.cdi.ui.wizard.NewBeansXMLCreationWizard</tags>
           <tags>persp.showIn:org.jboss.tools.forge.ui.console</tags>
           <tags>persp.newWizSC:org.jboss.tools.ws.jaxrs.ui.wizard.jaxrsResourceCreationWizard</tags>
-          <children xsi:type="basic:PartSashContainer" xmi:id="_0duGtcNvEeaE_aECiLf4hg" selectedElement="_0duGu8NvEeaE_aECiLf4hg" horizontal="true">
+          <children xsi:type="basic:PartSashContainer" xmi:id="_0duGtcNvEeaE_aECiLf4hg" selectedElement="_0duGtsNvEeaE_aECiLf4hg" horizontal="true">
             <children xsi:type="basic:PartStack" xmi:id="_0duGtsNvEeaE_aECiLf4hg" elementId="topLeft" containerData="2500" selectedElement="_0duGt8NvEeaE_aECiLf4hg">
-              <tags>MinimizedByZoom</tags>
+              <tags>active</tags>
               <children xsi:type="advanced:Placeholder" xmi:id="_0duGt8NvEeaE_aECiLf4hg" elementId="org.eclipse.ui.navigator.ProjectExplorer" ref="_0duuv8NvEeaE_aECiLf4hg"/>
               <children xsi:type="advanced:Placeholder" xmi:id="_0duGuMNvEeaE_aECiLf4hg" elementId="org.eclipse.ui.views.ResourceNavigator" toBeRendered="false" ref="_0duu2cNvEeaE_aECiLf4hg"/>
               <children xsi:type="advanced:Placeholder" xmi:id="_0duGucNvEeaE_aECiLf4hg" elementId="org.eclipse.jdt.ui.TypeHierarchy" toBeRendered="false" ref="_0duu2sNvEeaE_aECiLf4hg"/>
@@ -89,19 +89,15 @@
             </children>
             <children xsi:type="basic:PartSashContainer" xmi:id="_0duGu8NvEeaE_aECiLf4hg" containerData="7500" selectedElement="_0duGvMNvEeaE_aECiLf4hg">
               <children xsi:type="basic:PartSashContainer" xmi:id="_0duGvMNvEeaE_aECiLf4hg" containerData="2907" selectedElement="_0duGvcNvEeaE_aECiLf4hg" horizontal="true">
-                <children xsi:type="advanced:Placeholder" xmi:id="_0duGvcNvEeaE_aECiLf4hg" elementId="org.eclipse.ui.editorss" containerData="7000" ref="_0duuYsNvEeaE_aECiLf4hg">
-                  <tags>Maximized</tags>
-                </children>
+                <children xsi:type="advanced:Placeholder" xmi:id="_0duGvcNvEeaE_aECiLf4hg" elementId="org.eclipse.ui.editorss" containerData="7000" ref="_0duuYsNvEeaE_aECiLf4hg"/>
                 <children xsi:type="basic:PartStack" xmi:id="_0duGvsNvEeaE_aECiLf4hg" elementId="topRight" visible="false" containerData="3000" selectedElement="_0duGv8NvEeaE_aECiLf4hg">
                   <tags>Minimized</tags>
                   <children xsi:type="advanced:Placeholder" xmi:id="_0duGv8NvEeaE_aECiLf4hg" elementId="org.eclipse.ui.views.ContentOutline" ref="_0duu9cNvEeaE_aECiLf4hg"/>
                   <children xsi:type="advanced:Placeholder" xmi:id="_0duGwMNvEeaE_aECiLf4hg" elementId="org.eclipse.mylyn.tasks.ui.views.tasks" ref="_0duu-MNvEeaE_aECiLf4hg"/>
                 </children>
               </children>
-              <children xsi:type="basic:PartStack" xmi:id="_0duGwcNvEeaE_aECiLf4hg" elementId="bottomRight" visible="false" containerData="7093" selectedElement="_0duGycNvEeaE_aECiLf4hg">
+              <children xsi:type="basic:PartStack" xmi:id="_0duGwcNvEeaE_aECiLf4hg" elementId="bottomRight" containerData="7093" selectedElement="_0duGycNvEeaE_aECiLf4hg">
                 <tags>General</tags>
-                <tags>Minimized</tags>
-                <tags>MinimizedByZoom</tags>
                 <children xsi:type="advanced:Placeholder" xmi:id="_0duGwsNvEeaE_aECiLf4hg" elementId="org.eclipse.ui.views.AllMarkersView" ref="_0duu3MNvEeaE_aECiLf4hg"/>
                 <children xsi:type="advanced:Placeholder" xmi:id="_0duGw8NvEeaE_aECiLf4hg" elementId="org.eclipse.ui.views.PropertySheet" ref="_0duu38NvEeaE_aECiLf4hg"/>
                 <children xsi:type="advanced:Placeholder" xmi:id="_0duGxMNvEeaE_aECiLf4hg" elementId="org.eclipse.wst.server.ui.ServersView" ref="_0duu4sNvEeaE_aECiLf4hg"/>
@@ -149,41 +145,14 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_0duuYsNvEeaE_aECiLf4hg" elementId="org.eclipse.ui.editorss" selectedElement="_0duuY8NvEeaE_aECiLf4hg">
-      <children xsi:type="basic:PartStack" xmi:id="_0duuY8NvEeaE_aECiLf4hg" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_cw1bcNbHEeaYJffOcKWlbg">
+      <children xsi:type="basic:PartStack" xmi:id="_0duuY8NvEeaE_aECiLf4hg" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_C5h4YNhKEeap9ZAsuA1rGA">
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
-        <tags>active</tags>
-        <children xsi:type="basic:Part" xmi:id="__Thr4MWOEeaB8YPZRAGTRw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="CompteBancaireServlet.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CompteBancaireServlet.java&quot; partName=&quot;CompteBancaireServlet.java&quot; title=&quot;CompteBancaireServlet.java&quot; tooltip=&quot;GestionBancairWeb/src/tn/iit/servlet/CompteBancaireServlet.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/GestionBancairWeb/src/tn/iit/servlet/CompteBancaireServlet.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;930&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+        <children xsi:type="basic:Part" xmi:id="_C5h4YNhKEeap9ZAsuA1rGA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="ClientBanqueDao.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ClientBanqueDao.java&quot; partName=&quot;ClientBanqueDao.java&quot; title=&quot;ClientBanqueDao.java&quot; tooltip=&quot;GestionBancaireEjb/ejbModule/tn/iit/dao/ClientBanqueDao.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/GestionBancaireEjb/ejbModule/tn/iit/dao/ClientBanqueDao.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;1230&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;582&quot;/>&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_2B1MIMWQEeaB8YPZRAGTRw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="compte.jsp" iconURI="platform:/plugin/org.jboss.tools.jst.web.ui/images/xstudio/editors/jsp.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.jboss.tools.jst.jsp.jspeditor.JSPTextEditor&quot; name=&quot;compte.jsp&quot; partName=&quot;compte.jsp&quot; title=&quot;compte.jsp&quot; tooltip=&quot;GestionBancairWeb/WebContent/compte.jsp&quot;>&#xA;&lt;input factoryID=&quot;org.jboss.tools.common.core.resources.XModelObjectEditorInputFactory&quot; path=&quot;/GestionBancairWeb/WebContent/compte.jsp&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.jboss.tools.jst.jsp.jspeditor.JSPTextEditor</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_VAaAUMWVEeaVD73Sf8t1fQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="deposer.jsp" iconURI="platform:/plugin/org.jboss.tools.jst.web.ui/images/xstudio/editors/jsp.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.jboss.tools.jst.jsp.jspeditor.JSPTextEditor&quot; name=&quot;deposer.jsp&quot; partName=&quot;deposer.jsp&quot; title=&quot;deposer.jsp&quot; tooltip=&quot;GestionBancairWeb/WebContent/deposer.jsp&quot;>&#xA;&lt;input factoryID=&quot;org.jboss.tools.common.core.resources.XModelObjectEditorInputFactory&quot; path=&quot;/GestionBancairWeb/WebContent/deposer.jsp&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.jboss.tools.jst.jsp.jspeditor.JSPTextEditor</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_X_DugNbHEeaYJffOcKWlbg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="ClientBanqueDao.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ClientBanqueDao.java&quot; partName=&quot;ClientBanqueDao.java&quot; title=&quot;ClientBanqueDao.java&quot; tooltip=&quot;GestionBancaireEjb/ejbModule/tn/iit/dao/ClientBanqueDao.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/GestionBancaireEjb/ejbModule/tn/iit/dao/ClientBanqueDao.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;149&quot; selectionOffset=&quot;476&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_cw1bcNbHEeaYJffOcKWlbg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="CompteBancaireDao.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CompteBancaireDao.java&quot; partName=&quot;CompteBancaireDao.java&quot; title=&quot;CompteBancaireDao.java&quot; tooltip=&quot;GestionBancaireEjb/ejbModule/tn/iit/dao/CompteBancaireDao.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/GestionBancaireEjb/ejbModule/tn/iit/dao/CompteBancaireDao.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;319&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-          <tags>active</tags>
-          <tags>activeOnClose</tags>
         </children>
       </children>
     </sharedElements>
@@ -193,6 +162,8 @@
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; currentWorkingSetName=&quot;Aggregate for window 1481851719837&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;/>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
+      <tags>active</tags>
+      <tags>activeOnClose</tags>
       <menus xmi:id="_0duuwMNvEeaE_aECiLf4hg" elementId="org.eclipse.ui.navigator.ProjectExplorer">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -348,7 +319,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_0duu_MNvEeaE_aECiLf4hg" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_O4t1ENbHEeaYJffOcKWlbg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_0dx1AcNvEeaE_aECiLf4hg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_3FBIgNhJEeap9ZAsuA1rGA" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_0dx1AcNvEeaE_aECiLf4hg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_0duvCcNvEeaE_aECiLf4hg" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -381,7 +352,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_0dvU7MNvEeaE_aECiLf4hg" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_O4ytkNbHEeaYJffOcKWlbg" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_0dx0ncNvEeaE_aECiLf4hg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_3FEL0NhJEeap9ZAsuA1rGA" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_0dx0ncNvEeaE_aECiLf4hg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_0dvU98NvEeaE_aECiLf4hg" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -434,7 +405,7 @@
         <tags>TrimStack</tags>
         <tags>Draggable</tags>
       </children>
-      <children xsi:type="menu:ToolControl" xmi:id="_bm_kQMOcEea6NNqIA36kUw" elementId="bottomRight(IDEWindow).(org.eclipse.jst.j2ee.J2EEPerspective)" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
+      <children xsi:type="menu:ToolControl" xmi:id="_bm_kQMOcEea6NNqIA36kUw" elementId="bottomRight(IDEWindow).(org.eclipse.jst.j2ee.J2EEPerspective)" toBeRendered="false" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
         <tags>TrimStack</tags>
         <tags>Draggable</tags>
       </children>
@@ -874,7 +845,7 @@
       <tags>platform:cocoa</tags>
       <parameters xmi:id="_0dvWKsNvEeaE_aECiLf4hg" elementId="org.eclipse.ui.views.showView.viewId" name="org.eclipse.ui.views.showView.viewId" value="org.eclipse.mylyn.tasks.ui.views.tasks"/>
     </bindings>
-    <bindings xmi:id="_N-_-0dbHEeaYJffOcKWlbg" keySequence="COMMAND+CTRL+F" command="_0dx15cNvEeaE_aECiLf4hg"/>
+    <bindings xmi:id="_2X1SYNhJEeap9ZAsuA1rGA" keySequence="COMMAND+CTRL+F" command="_0dx15cNvEeaE_aECiLf4hg"/>
   </bindingTables>
   <bindingTables xmi:id="_0dvWLMNvEeaE_aECiLf4hg" elementId="org.dadacoalition.yedit.yeditScope" bindingContext="_0dv8ncNvEeaE_aECiLf4hg">
     <bindings xmi:id="_0dvWLcNvEeaE_aECiLf4hg" keySequence="COMMAND+SHIFT+C" command="_0dxxZsNvEeaE_aECiLf4hg"/>
@@ -1218,7 +1189,7 @@
     <bindings xmi:id="_0dv8N8NvEeaE_aECiLf4hg" keySequence="COMMAND+C" command="_0dxx6sNvEeaE_aECiLf4hg"/>
   </bindingTables>
   <bindingTables xmi:id="_0dv8OMNvEeaE_aECiLf4hg" contributorURI="platform:/fragment/org.eclipse.e4.ui.workbench.renderers.swt.cocoa" bindingContext="_0dv8scNvEeaE_aECiLf4hg">
-    <bindings xmi:id="_N_BM8NbHEeaYJffOcKWlbg" keySequence="M1+W" command="_0dx158NvEeaE_aECiLf4hg"/>
+    <bindings xmi:id="_2X15cNhJEeap9ZAsuA1rGA" keySequence="M1+W" command="_0dx158NvEeaE_aECiLf4hg"/>
   </bindingTables>
   <bindingTables xmi:id="_0dv8OsNvEeaE_aECiLf4hg" bindingContext="_0dv8usNvEeaE_aECiLf4hg"/>
   <bindingTables xmi:id="_0dv8O8NvEeaE_aECiLf4hg" bindingContext="_0dv8u8NvEeaE_aECiLf4hg"/>
